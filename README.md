@@ -6,3 +6,7 @@ Kelime = Açıklama
 
 Sonra programı çalıştırınız:
 python3 Kelimeler-1.py
+
+
+Youtube videosu:
+https://youtu.be/ZB9vJPjy0nk
