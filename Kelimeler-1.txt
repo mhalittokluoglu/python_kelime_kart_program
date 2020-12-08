@@ -1,0 +1,7 @@
+Words-1 = Kelimeler-1
+abet = Suç ortağı olmak
+abrasive = Aşındırıcı
+abstain = Kaçınmak
+adroit = Becerikli
+allimony = Nafaka
+END = SON
