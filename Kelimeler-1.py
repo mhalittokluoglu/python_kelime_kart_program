@@ -3,7 +3,7 @@ import tkinter as tk
 class MyProgram:
     def __init__(self,win):
 
-        with open('Kelimeler-1.txt','r') as f:
+        with open('Kelimeler-1.txt','r',encoding='UTF-8') as f:
             words = []
             for line in f:
                 words.append(line)
